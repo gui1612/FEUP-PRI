@@ -2,6 +2,8 @@
 
 #### What is entity-oriented search? What is necessary to implement it?
 
+- Entity-Oriented Search is the search paradigm of organizing and accessing information centered around entities, and their attributed and relationships.
+
 Entity-oriented search focuses on retrieving information about specific entities (such as people, places, or organizations) rather than general keyword-based results. To implement it, a system needs:
 
 - **Entity Recognition:** Robust algorithms for identifying and categorizing entities within documents.
